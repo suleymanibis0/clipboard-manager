@@ -55,4 +55,4 @@ pyinstaller --onefile --noconsole --name="MyClipboard" --icon="app.ico" main.py
 
 * **Winreg:** Windows başlangıç kaydı entegrasyonu.
 
-**Developed by Süleyman İbiş**
+**Developed by [Süleyman İbiş](https://github.com/suleymanibis0)**
