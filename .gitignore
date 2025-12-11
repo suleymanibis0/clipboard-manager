@@ -1,0 +1,23 @@
+# --- Python Derleme Dosyaları (Gereksiz) ---
+__pycache__/
+*.py[cod]
+
+# --- Sanal Ortam (Virtual Environment) ---
+# Kütüphanelerin olduğu klasör yüklenmez, sadece requirements.txt yüklenir
+.venv/
+venv/
+env/
+
+# --- PyInstaller Çıktıları (Çok Önemli) ---
+# exe oluştururken çıkan geçici ve sonuç dosyaları
+build/
+dist/
+*.spec
+
+# --- IDE ve Editör Ayarları ---
+.vscode/
+.idea/
+
+# --- İşletim Sistemi Dosyaları ---
+Thumbs.db
+.DS_Store
